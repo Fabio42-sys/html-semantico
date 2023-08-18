@@ -40,3 +40,26 @@ Lista de tarefas:
 
 > Dormir faz bem!
 > (Fabio)
+
+Esse é um método `console.log()` do javascript.
+
+# Usar acentro craze para identificar palavra como codigo
+
+llllllllll <br>
+MMMMMMMMMM
+
+# Craze tripla coisa de varios textos ao mesmo tempo
+
+```javascript 
+function seletionaElento() {
+    const body = document.
+    querySelector('body');
+}
+```
+
+Frutas | Doces | Salgados 
+:------- | :-------: | ---------:
+banana | chocolate | coxinha 
+maçã | bala Juquinha | esfiha
+uva | bombom | tapioca
+
