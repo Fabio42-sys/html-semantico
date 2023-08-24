@@ -2,9 +2,9 @@
 ## Dando significado a estrutura da aplicação 
 
 texto em **negrito** com asteristico
-
+ A
 texto em __negrito__ com underscore
-
+ A
 Texto em *italico* com um asteristico
 
 texto em _italico_ com underscore
