@@ -48,7 +48,7 @@ Esse é um método `console.log()` do javascript.
 llllllllll <br>
 MMMMMMMMMM
 
-# <h4> Craze tripla coisa de varios textos ao mesmo tempo </h4>
+# <h4> Craze tripla cuida de varios textos ao mesmo tempo </h4>
 
 ```javascript 
 function seletionaElento() {
