@@ -1,11 +1,8 @@
-body{
-
-    /* color:rgb(255, 0, 0): url(volor-propriedade); */
-}
+body
 
 h1 {
 
     color: rgb(0, 195, 255);
     line-height: 2.1;
-
+    font-weight: bold;
 }
