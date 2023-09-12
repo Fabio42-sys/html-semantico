@@ -1,8 +1,8 @@
 body
 
-h1 {
+.titulo-de-artigo {
 
-    color: rgb(0, 195, 255);
+    color: rgb(119, 25, 182);
     line-height: 2.1;
     font-weight: bold;
     font-size: 24pt;
