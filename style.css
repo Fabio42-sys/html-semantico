@@ -16,10 +16,15 @@ p {
     line-height: 1.10;
     text-align: justify;
     margin-bottom: 20px;
+
 }
 
 .paragrafo-de-artigo{
 
+    background-color: #765827;
+    color: #fffaf3;
+    padding: 20px;
+    border-radius: 20px;
     
 }
 
