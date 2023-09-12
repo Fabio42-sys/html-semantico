@@ -1,9 +1,57 @@
-body
+body {
+
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-left: 50px; 
+    /* margin: 20px 50px 20px 50px; */
+
+    background-color: rgba(245, 160, 48, 0.432);
+    color: rgba(173, 98, 0, 0.849);
+    padding: 20px;
+}
+
+p {
+
+    line-height: 1.10;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.paragrafo-de-artigo{
+
+    
+}
+
+.titulo-de-pagina{
+
+    color: #213363;
+    line-height:2.1;
+    font-weight: bold;
+    font-size: 24pt;
+}
 
 .titulo-de-artigo {
 
-    color: rgb(119, 25, 182);
+    color: #17594A;
     line-height: 2.1;
     font-weight: bold;
     font-size: 24pt;
+}
+
+.subtitulo-de-pagina {
+
+    color: #8EAC50;
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+.titulo-de-seçao {
+
+    color:#D3D04F;
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 20pt;
+    
 }
